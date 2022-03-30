@@ -14,7 +14,7 @@ def stock_buy():
     unit_price = stock_price * mini_amount
 
     if cash < unit_price:
-        print("资金不足，无法购入一手股票")
+        print("资金不足，无法购入一手股票!")
     else:
         share = cash // unit_price * mini_amount
         print("可以购入{}股{}股票".format(share, unit_price))
