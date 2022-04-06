@@ -2,4 +2,4 @@ print("Hello world!")
 
 print("Gitlens+")
 
-print("check update")
+print("check update!")
