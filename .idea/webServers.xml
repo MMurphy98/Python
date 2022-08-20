@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7b5ead1c-fbbe-481b-b45f-1bb4629e44ca" name="xilinx">
+        <fileTransfer accessType="SFTP" host="192.168.137.2" port="22" sshConfigId="f0d03217-f207-426d-9ba6-d441d5a1058e" sshConfig="xilinx@192.168.137.2:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
